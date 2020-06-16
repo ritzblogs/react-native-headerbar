@@ -1,6 +1,6 @@
 # react-native-headerbar
 
-![demo](https://github.com/ritzblogs/react-native-headerbar/blob/master/apiintegration.jpg)  
+![demo](https://github.com/ritzblogs/react-native-headerbar/blob/master/headerbar.jpg)  
 
 ## Install at local
 Open Terminal, then type command:  
