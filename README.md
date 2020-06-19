@@ -2,6 +2,8 @@
 
 ![demo](https://github.com/ritzblogs/react-native-headerbar/blob/master/headerbar.jpg)  
 
+Find the detailed description - https://abodeofmystories.blogspot.com/2020/05/header-status-bar-react-native.html
+
 ## Install at local
 Open Terminal, then type command:  
 > git clone  https://github.com/ritzblogs/react-native-headerbar.git
